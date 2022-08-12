@@ -2,7 +2,8 @@
 Simple discord bot which detects if a user is afk and sends a message to a configured channel when the user comes back
 
 ## Configuration
-Copy the config.json.dist to config.json
+1. Copy the config.json.dist to config.json
+2. Configure the config.json to your needs!
 
 ## Run 
 ```
