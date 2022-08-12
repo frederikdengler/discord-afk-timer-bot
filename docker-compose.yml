@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  discord-afk-timer-bot:
+    build:
+      context: .
+    restart: always
+    container_name: discord-afk-timer-bot
